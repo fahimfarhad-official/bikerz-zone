@@ -1,15 +1,13 @@
-.h-bg-image {}
-
-.header-bg-image {
+.header-bg-image{
   position: absolute;
   width: 100%;
-  height: 60%;
+  height: 55%;
   filter: brightness(0.6);
 }
 
-@media (max-width: 576px) {
+@media (max-width: 572px) {
   .header-bg-image {
-    height: 50%;
+    height: 70%;
   }
 }
 
@@ -17,7 +15,7 @@
   position: relative;
 }
 
-.text-center{
+.custom{
   position: relative;
-  margin-top: 17%;
+  margin-top: 14%;
 }
