@@ -7,7 +7,7 @@
 
 @media (max-width: 572px) {
   .header-bg-image {
-    height: 70%;
+    height: 90%;
   }
 }
 
@@ -17,5 +17,5 @@
 
 .custom {
   position: relative;
-  margin-top: 14%;
+  margin-top: 20%;
 }
